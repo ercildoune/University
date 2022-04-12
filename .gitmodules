@@ -1,3 +1,6 @@
 [submodule "Y5S1/Space-System-Design"]
 	path = Y5S1/Space-System-Design
 	url = git@github.com:ercildoune/Space-System-Design.git
+[submodule "Y5S1/Curtin_Mechatronics_Thesis"]
+	path = Y5S1/Curtin_Mechatronics_Thesis
+	url = git@github.com:ercildoune/Curtin_Mechatronics_Thesis.git
